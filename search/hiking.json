@@ -1,22 +1,19 @@
 {
-    "search": {
-        "hiking": [{
+    "search": [{
+            "Title": "The Top End",
+            "SubTitle": "The Top End",
+            "Image": "https://northernterritory.com/-/media/images/heroes/katherine-and-surrounds/swimming_at_northern_rockhole_waterfall.jpg"
+        },
+        {
+            "Title": "Articles",
+            "SubTitle": "Top free things to do in Kakadu",
+            "Image": "https://northernterritory.com/-/media/images/articles/top-free-things-to-do-in-kakadu/hero-image/aerial_image_over_ubirr_floodplains_in_kakadu_national_park_at_sunset.jpg.jpg"
+        },
+        {
+            "Title": "Articles",
+            "SubTitle": "Kakadu in 49 hours",
+            "Image": "https://northernterritory.com/-/media/images/articles/kakadu-in-48-hours/hero-image/hiking_at_nourlangie_rock_in_kakadu_national_park.jpg.jpg"
+        }
 
-                "Title": "The Top End",
-                "SubTitle": "The Top End",
-                "Image": "https://northernterritory.com/-/media/images/heroes/katherine-and-surrounds/swimming_at_northern_rockhole_waterfall.jpg"
-            },
-            {
-                "Title": "Articles",
-                "SubTitle": "Top free things to do in Kakadu",
-                "Image": "https://northernterritory.com/-/media/images/articles/top-free-things-to-do-in-kakadu/hero-image/aerial_image_over_ubirr_floodplains_in_kakadu_national_park_at_sunset.jpg.jpg"
-            },
-            {
-                "Title": "Articles",
-                "SubTitle": "Kakadu in 49 hours",
-                "Image": "https://northernterritory.com/-/media/images/articles/kakadu-in-48-hours/hero-image/hiking_at_nourlangie_rock_in_kakadu_national_park.jpg.jpg"
-            }
-        ]
-
-    }
+    ]
 }
